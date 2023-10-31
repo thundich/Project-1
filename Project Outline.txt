@@ -1,0 +1,22 @@
+Project 1 Outline 
+
+Trends in Data Science Jobs 
+
+Team Members: Tamara Hundich, Nick Carson, Swati Kallepalli, Shivantika Bisen, Mamatha Etikyala. 
+
+Project Description/Outline
+Data Science has vast job opportunities across the work force that allows opportunities for remote work and higher increases in salary based on tenure.  
+Datasets to be used:
+Job Opportunities
+1)Number of jobs in each country (bar chart)- SB
+-	Remote work for PT and full time (pie chart)- SB 
+2) Mean, Median, Mode, Standard Deviation for Salary in Top 3 Countries - TH
+	- map with the dots size being average salary- TH
+3) Job Availability by Expertise Level: Growth by tier: line chart- NC
+	Year over Year: line chart- NC 
+4) Company Size and Salary- ME
+	- Expertise Level and Salary- ME
+5) Remote Work Vs Salary- SK
+6) Office Location vs Resident Location – linear aggregation- SK
+
+Datasource: https://ai-jobs.net/salaries/download/
