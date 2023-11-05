@@ -21,7 +21,7 @@ Belarus,Europe,Monthly,849.5,983.28,247.49,4381.27
 Belgium,Europe,Monthly,5729.39,6522.2,1997.89,27378.44
 Belize,Central America,Monthly,1730.0,1965.0,495.0,8750.0
 Benin,Africa,Monthly,488.25,549.48,138.58,2449.28
-Bermuda,Northern America,Monthly,1440.0,1600.0,400.0,7120.0
+Bermuda,North America,Monthly,1440.0,1600.0,400.0,7120.0
 Bhutan,Asia,Monthly,407.26,449.3,113.17,1994.23
 Bolivia,South America,Monthly,1131.5,1236.99,312.14,5505.78
 Bosnia and Herzegovina,Europe,Monthly,1151.35,1248.65,313.51,5567.57
@@ -34,7 +34,7 @@ Burkina Faso,Africa,Monthly,485.02,534.97,135.03,2384.83
 Burundi,Africa,Monthly,384.78,420.08,105.55,1863.89
 Cambodia,Asia,Monthly,745.19,808.3,203.41,3592.44
 Cameroon,Africa,Monthly,633.27,744.45,186.92,3303.31
-Canada,Northern America,Monthly,6311.03,7352.94,1850.0,32720.59
+Canada,North America,Monthly,6311.03,7352.94,1850.0,32720.59
 Cape Verde,Africa,Monthly,1706.29,1965.11,495.59,8742.33
 Cayman Islands,Caribbean,Monthly,3430.97,3901.56,984.39,17406.96
 Central African Republic,Africa,Monthly,621.99,699.33,175.64,3109.94
@@ -77,7 +77,7 @@ Germany,Europe,Monthly,3731.5,4048.63,1014.8,17970.4
 Ghana,Africa,Monthly,373.82,438.42,110.25,1946.6
 Gibraltar,Europe,Monthly,3567.07,4135.37,1046.34,18393.9
 Greece,Europe,Monthly,2241.01,2579.28,655.39,11522.2
-Greenland,Northern America,Monthly,3526.91,4008.5,1011.33,17847.03
+Greenland,North America,Monthly,3526.91,4008.5,1011.33,17847.03
 Grenada,Caribbean,Monthly,2066.67,2329.63,588.89,10370.37
 Guadeloupe,Caribbean,Monthly,3985.2,4439.75,1120.51,19767.44
 Guam,Oceania,Monthly,1270,1400,350,6230
@@ -207,8 +207,8 @@ Turks and Caicos Islands,North America,Monthly,1350,1490,380,6640
 Uganda,Africa,Monthly,645.21,698.31,176.04,3106.55
 Ukraine,Europe,Monthly,530.73,622.8,157.32,2761.98
 United Arab Emirates,Asia,Monthly,3324.25,3896.46,708.45,18637.6
-United Kingdom,Europe,Monthly,6300.0,7235.37,1829.27,32214.63
-United States,Northern America,Monthly,6966,7925,2000,35250
+United Kingdom of Great Britain and Northern Ireland,Europe,Monthly,6300.0,7235.37,1829.27,32214.63
+United States,North America,Monthly,6966,7925,2000,35250
 Uruguay,South America,Monthly,773.64,862.2,217.24,3829.12
 Uzbekistan,Asia,Monthly,97.25,106.98,27.07,477.35
 Vanuatu,Oceania,Monthly,750.74,821.77,207.3,3650.48
