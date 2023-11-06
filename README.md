@@ -6,18 +6,11 @@ Shivantika Bisen, Nick Carson, Mamatha Etikyala, Tamara Hundich, Swati Kallepall
 
  Project 1: Trends in Data Science Jobs 
 
- Topics: 
+ ## Topics: 
  Number of jobs in each country- Shivantika Bisen 
- 
-
-
-
-
-
-
 
  ## Installation and Configuration 
-	- Python, GeoPandas, GeoView, Pandas, and Jupiter Notebook. 
+Python, GeoPandas, GeoView, Pandas, and Jupiter Notebook. 
 	
-	- Files included with repository include the CSV file codes, README, HTMLs for maps, Data Figures. 
+Files included with repository include the CSV file codes, README, HTMLs for maps, Data Figures. 
 
