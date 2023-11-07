@@ -9,11 +9,11 @@ Shivantika Bisen, Nick Carson, Mamatha Etikyala, Tamara Hundich, Swati Kallepall
  Project 1: Trends in Data Science Jobs 
 
  ## Topics: 
- Number of jobs in each country and remote work vs Employment Type- Shivantika Bisen 
- Top 10 Countries with population, Average Data Science Salary, and Average Country Salary- Tamara Hundich
- Growth in Data Science based off experience level and average salary increase over the years- Nick Carson
- Salary: differences between Company size and salary and differences between expertise level and salary - Mamatha Etikyala
- Remote work: Comparison of salary and remote work, office location and resident location- Swati Kallepalli
+ - Number of jobs in each country and remote work vs Employment Type- Shivantika Bisen 
+ - Top 10 Countries with population, Average Data Science Salary, and Average Country Salary- Tamara Hundich
+ - Growth in Data Science based off experience level and average salary increase over the years- Nick Carson
+ - Salary: differences between Company size and salary and differences between expertise level and salary - Mamatha Etikyala
+ - Remote work: Comparison of salary and remote work, office location and resident location- Swati Kallepalli
 
 
 ## Analysis 
