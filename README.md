@@ -14,10 +14,6 @@ Shivantika Bisen, Nick Carson, Mamatha Etikyala, Tamara Hundich, Swati Kallepall
  - Growth in Data Science based off experience level and average salary increase over the years- Nick Carson
  - Salary: differences between Company size and salary and differences between expertise level and salary - Mamatha Etikyala
  - Remote work: Comparison of salary and remote work, office location and resident location- Swati Kallepalli
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
 
 ## Analysis 
 With the data provided, there are ample job opportunities locally here in the United States as well as abroad. In total, there were 8,128 jobs available. 6,956 jobs were available in the United States. Per the analysis, over 85% of the jobs were available in the United States.
