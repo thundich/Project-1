@@ -1,8 +1,8 @@
 # Project-1
-Salaries Analysis - For Data Analtis and Data Scientists
+Salaries Analysis - For Data Analyst and Data scientist
 
 Project Title
-Salaries Analysis - For Data Analtis and Data Scientists
+Salaries Analysis - For Data Analyst and Data scientist
 
 
 Table of Contents
@@ -15,7 +15,7 @@ About
 The purpose of this study is to compare the Salaries in US and Across Globe in Data Analysis and Data Science field.
 
 Getting Started
-Presentation is prepared in ppt form along with analysis included.
+Presentation is prepared in power poit(ppt) form along with analysis and plots included.
 
 Installing
 Python 3.x.x version to be installed. 
